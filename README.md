@@ -1,6 +1,6 @@
 ### 🙋🏻‍♂️ 안녕하세요! 저의 Repository에 와주셔서 감사합니다. 마음껏 봐주세요!
-##### 🤠 Hello! Thank you for coming to my repository. Please enjoy!
-##### 🤩 ¡Hola! Gracias por venir a mi repositorio. ¡Por favor, disfruta!
+#### 🤠 Hello! Thank you for coming to my repository. Please enjoy!
+#### 🤩 ¡Hola! Gracias por venir a mi repositorio. ¡Por favor, disfruta!
 
 ### About Me
   웹 개발을 배운지 6개월된 27살, 류경현입니다. 
