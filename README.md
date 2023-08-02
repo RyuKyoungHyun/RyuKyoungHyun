@@ -3,7 +3,7 @@
 #### 🤩 ¡Hola! Gracias por venir a mi repositorio. ¡Por favor, disfruta!
 
 ### About Me
-  웹 개발을 배운지 6개월된 27살, 류경현입니다. 
+  웹 개발을 배운지 6개월된 27살, 류경현입니다.
   
 ### Goal
   HTML/CSS, JavaScript까지 배웠지만 리액트를 배워서 프론트엔드로 쪽으로 더욱 보강하고 싶습니다.<br>
