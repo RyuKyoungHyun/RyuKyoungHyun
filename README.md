@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### My Skills
+![Static Badge](https://img.shields.io/badge/HTML5-red)
+![Static Badge](https://img.shields.io/badge/CSS3-purple)
+![Static Badge](https://img.shields.io/badge/JavaScript-gold)
+![Static Badge](https://img.shields.io/badge/FIGMA-pink)
+![Static Badge](https://img.shields.io/badge/SCSS-orange)
+
+
 <!--
 **RyuKyoungHyun/RyuKyoungHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
