@@ -1,10 +1,14 @@
 ### 🙋🏻‍♂️ 안녕하세요! 저의 Repository에 와주셔서 감사합니다. 마음껏 봐주세요!
-#### Hello! Thank you for coming to my repository. Please enjoy!
-#### ¡Hola! gracias por venir a mi repositorio. ¡Por favor, disfruta!
+### 🤠 Hello! Thank you for coming to my repository. Please enjoy!
+### 🤩 ¡Hola! Gracias por venir a mi repositorio. ¡Por favor, disfruta!
 
+### About Me
+  웹 개발을 배운지 6개월된 27살, 류경현입니다. 
+  
 ### Goal
-  HTML/CSS, JavaScript까지 배웠지만 리액트를 배워서 프론트엔드로 쪽으로 더욱 보강하고 싶습니다.
+  HTML/CSS, JavaScript까지 배웠지만 리액트를 배워서 프론트엔드로 쪽으로 더욱 보강하고 싶습니다.<br>
   그리고 백엔드에 대한 추가적인 교육을 통해 웹 개발에 대한 전제적인 이해도를 높이고 싶습니다.
+  
 ### Skills
 ![Static Badge](https://img.shields.io/badge/HTML5-red)
 ![Static Badge](https://img.shields.io/badge/CSS3-purple)
