@@ -20,10 +20,16 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-gold)
 ![Static Badge](https://img.shields.io/badge/FIGMA-pink)
 ![Static Badge](https://img.shields.io/badge/SCSS-orange)
-![Static Badge](https://img.shields.io/badge/ajax-yellow)
+![Static Badge](https://img.shields.io/badge/ajax-yellow) <br>
 ![Static Badge](https://img.shields.io/badge/JAVA-blue)
+![Static Badge](https://img.shields.io/badge/jsp-red)
+![Static Badge](https://img.shields.io/badge/jstl-orange)
 ![Static Badge](https://img.shields.io/badge/eclipse-navy)
-![Static Badge](https://img.shields.io/badge/Spring-green)
+![Static Badge](https://img.shields.io/badge/Spring-green)<br>
+![Static Badge](https://img.shields.io/badge/mysql-%232C4BFA)
+![Static Badge](https://img.shields.io/badge/mybatis-%23D93EFA)
+
+
 
 
 
