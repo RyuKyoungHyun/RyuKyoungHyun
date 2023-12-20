@@ -18,6 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-red)
 ![Static Badge](https://img.shields.io/badge/CSS3-purple)
 ![Static Badge](https://img.shields.io/badge/JavaScript-gold)
+![Static Badge](https://img.shields.io/badge/jQuery-%23B6B8F9)
 ![Static Badge](https://img.shields.io/badge/FIGMA-pink)
 ![Static Badge](https://img.shields.io/badge/SCSS-orange)
 ![Static Badge](https://img.shields.io/badge/ajax-yellow) <br>
