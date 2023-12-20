@@ -16,6 +16,11 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-gold)
 ![Static Badge](https://img.shields.io/badge/FIGMA-pink)
 ![Static Badge](https://img.shields.io/badge/SCSS-orange)
+![Static Badge](https://img.shields.io/badge/ajax-yellow)
+![Static Badge](https://img.shields.io/badge/JAVA-blue)
+![Static Badge](https://img.shields.io/badge/eclipse-navy)
+![Static Badge](https://img.shields.io/badge/Spring-green)
+
 
 
 <!--
