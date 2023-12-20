@@ -9,6 +9,10 @@
 ### Goal
   HTML/CSS, JavaScript까지 배웠지만 리액트를 배워서 프론트엔드로 쪽으로 더욱 보강하고 싶습니다.<br>
   그리고 백엔드에 대한 추가적인 교육을 통해 웹 개발에 대한 전제적인 이해도를 높이고 싶습니다.
+
+## couse of study
+  웹디자인 및 스마트 UI/UX 웹퍼블리셔 양성과정 // 2023.03.08 ~ 2023.08.03 (complete)
+  기업요구사항을 반영한 자바&파이썬기반 빅데이터활용 풀스택개발자 양성과정 // 2023.08.21 ~ 2024.02.14 (process)
   
 ### Skills
 ![Static Badge](https://img.shields.io/badge/HTML5-red)
